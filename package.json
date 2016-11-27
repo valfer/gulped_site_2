@@ -4,7 +4,13 @@
   "description": "",
   "main": "gulpfile.js",
   "dependencies": {
-    "gulp-cachebust": "^0.0.6"
+    "gulp": "^3.9.1",
+    "gulp-cachebust": "^0.0.6",
+    "gulp-clean-css": "^2.0.13",
+    "gulp-rimraf": "^0.2.1",
+    "gulp-concat": "^2.6.1",
+    "path": "^0.12.7",
+    "rimraf": "^2.5.4"
   },
   "devDependencies": {},
   "scripts": {
@@ -14,7 +20,7 @@
     "type": "git",
     "url": "git+https://github.com/valfer/gulped_site_2.git"
   },
-  "author": "",
+  "author": "Valerio Ferrucci",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/valfer/gulped_site_2/issues"
