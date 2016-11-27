@@ -4,17 +4,20 @@
   "description": "",
   "main": "gulpfile.js",
   "dependencies": {
-    "gulp": "^3.9.1",
     "gulp-cachebust": "^0.0.6"
   },
-  "devDependencies": {
-    "gulp-rev-outdated": "^0.1.1",
-    "path": "^0.12.7",
-    "through2": "^2.0.1"
-  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valfer/gulped_site_2.git"
+  },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/valfer/gulped_site_2/issues"
+  },
+  "homepage": "https://github.com/valfer/gulped_site_2#readme"
 }
